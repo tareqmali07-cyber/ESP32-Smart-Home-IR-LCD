@@ -1,0 +1,15 @@
+Item,Component Name,Quantity,Specification / Part Number,Function / Role in Circuit
+1,ESP32 Development Board,1,ESP32 DevKit V1 (30-pin),Main Controller & Logic Processing
+2,IR Receiver Module,1,VS1838B (38kHz),Infrared Signal Reception (GPIO 4)
+3,IR Remote Control,1,NEC Protocol Handheld Remote,Wireless Command Input
+4,5V Relay Module,1,SRD-05VDC-SL-C (1-Channel),Channel 1 High-Power Load Switching (GPIO 27)
+5,16x2 LCD Display with I2C,1,HD44780 with PCF8574 Adapter,Visual System Feedback & Status Display (GPIO 21/22)
+6,Red Status LED,1,5mm Standard Red LED,Channel 2 Status Indicator (GPIO 12)
+7,Yellow Status LED,1,5mm Standard Yellow LED,Channel 3 Status Indicator (GPIO 13)
+8,Green Status LED,1,5mm Standard Green LED,Channel 4 Status Indicator (GPIO 14)
+9,Piezo Buzzer,1,5V Active/Passive Buzzer,Audible Feedback / Button Beep (GPIO 26)
+10,NPN Transistor,1,2N2222 / BC547,Relay Coil Switching Driver
+11,Flyback Diode,1,1N4007 Rectifier Diode,Relay Reverse EMF Voltage Spike Protection
+12,Current Limiting Resistors,4,220 Ohm (1/4W),LED & Transistor Base Current Protection
+13,Solderless Breadboard,1,830 Point Full-Size Breadboard,Prototyping Circuit Board
+14,Jumper Wires,,Male-to-Male / Male-to-Female,Circuit Interconnections
