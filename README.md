@@ -118,7 +118,8 @@ ESP32 Smart Home System IR Control/
 
 ## 💻 Source Code (`src/main.ino`)
 
-```cpp
+C++
+```
 #include <Arduino.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
